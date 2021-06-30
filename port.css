@@ -1,0 +1,44 @@
+body{
+    background-image: -webkit-radial-gradient();
+    background-color: rgb(15, 73, 90);
+    text-decoration: black;
+}.port{
+    background-color: rgb(134, 209, 100);
+    text-decoration: black;
+    font-size: 20px;
+}
+*{
+    margin: 20px;
+    list-style-image: -webkit-linear-gradient();
+}
+h1{
+    text-align: left;
+    border-style:outset ;
+    background-color: beige;    
+}
+ol{
+    list-style-type: disc;
+}
+li{
+    margin: 10px 0px 0px 0px;
+}
+ul{
+    list-style-type: stylety;
+}
+h2{
+    text-align: left;
+    border-style:outset ;
+    background-color: beige;
+}
+#container{
+    width: 200px;
+    height: 200px;
+    position: inherit;
+    background-color: darksalmon;
+}
+h3{
+    text-align: left;
+    border-style:outset ;
+    background-color: beige;
+
+}
